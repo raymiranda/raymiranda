@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**raymiranda/raymiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Just a few lines
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a few different projects that will allow me to share some of the things I hope will help others.
+- 🌱 I’m currently learning GoLang | DjangoRest | Anything focused on Automations.
+- 👯 I enjoy working with others who enjoy application development.
+- 📫 How to reach me: rmira80@gmail.com (For time time being)
+- ⚡ Fun fact: I started as a Network Engineer but was bitten by the software bug. I enjoy any project that allows me to combine both fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### A few websites
+
+- https://www.synergytodayfoundation.org/
+  - Collaborated on this website for a great foundation in NYC.
+
+- https://firestrong.org
+  - Currently working to implement Rev2.0 with a new UI.
