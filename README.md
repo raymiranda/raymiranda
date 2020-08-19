@@ -8,7 +8,7 @@ Skills: PHP / Golang / Python / Bash Scripting
 - 🔭 I’m currently working on a few different projects that will allow me to share some of the things I hope will help others. 
 - 🌱 I’m currently learning GoLang | DjangoRest | Anything focused on Automations. 
 - 👯 I enjoy working with others who enjoy application development. 
-- 📫 How to reach me: How to reach me: rmira80@gmail.com (For time time being) 
+- 📫 How to reach me: rmira80@gmail.com (For time time being) 
 - ⚡ Fun fact: I started as a Network Engineer but was bitten by the software bug. I enjoy any project that allows me to combine both fields. 
 
 ### A few websites
@@ -26,5 +26,5 @@ Skills: PHP / Golang / Python / Bash Scripting
 
 [![Ray's Github Stats](https://github-readme-stats.vercel.app/api?username=raymiranda)](https://github.com/raymiranda/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/raymiranda)
+![Profile views](https://gpvc.arturio.dev/raymiranda)
 
