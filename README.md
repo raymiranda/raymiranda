@@ -1,7 +1,7 @@
 ### Hi there 👋, Ray Miranda
 #### Senior Systems Engineer
 
-I enjoy working with DevOps and combining my passion for Software Development and Networking. I've been in the industry for 20yrs and I'm going to share some of the tools that I've come across that have been extremely helpful.
+I enjoy working with DevOps and combining my passion for Software Development and Networking. I've been in the industry for 20 years and still look forward to learning and absorbing as much knowledge as possible.
 
 Skills: PHP / Golang / Python / Bash Scripting
 
