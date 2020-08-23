@@ -3,7 +3,7 @@
 
 I enjoy working with DevOps and combining my passion for Software Development and Networking. I've been in the industry for 20 years and still look forward to learning and absorbing as much knowledge as possible.
 
-Skills: PHP / Golang / Python / Bash Scripting
+Skills: PHP / Bash / Python / Golang / AWS Solutions Archtect
 
 - 🔭 I’m currently working on a few different projects that will allow me to share some of the things I hope will help others. 
 - 🌱 I’m currently learning GoLang | DjangoRest | Anything focused on Automations. 
@@ -14,10 +14,10 @@ Skills: PHP / Golang / Python / Bash Scripting
 ### A few websites
 
 - https://www.synergytodayfoundation.org/
-  - Collaborated on this website for a great foundation in NYC.
+  - Collaborated and continue to provide feature enhancements on this great foundation in NYC.
 
 - https://firestrong.org
-  - Currently working to implement Rev2.0 with a new UI.
+  - Currently collaborating with a few others to overhaul the UI/UX for the site.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/raymiranda)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/raymiranda)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/raymiranda//)  
