@@ -24,7 +24,3 @@ Skills: PHP / Bash / Python / Golang / AWS Solutions Archtect
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
-[![Ray's Github Stats](https://github-readme-stats.vercel.app/api?username=raymiranda)](https://github.com/raymiranda/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/raymiranda)
-
